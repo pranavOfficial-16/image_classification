@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Image Classification demo</string>
+    <string name="todo">TODO</string>
+    <string name="classify">Classify</string>
+    <string name="click_below_to_select_a_image">click below to select a image</string>
+    <string name="textview">IMAGE CLASSIFICATION</string>
+</resources>
